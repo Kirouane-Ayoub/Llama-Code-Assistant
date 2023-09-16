@@ -10,3 +10,12 @@ Code Llama is a collection of pre-trained and fine-tuned generative text models 
 ## CodeLlama 34B Instruct - GGUF : 
 
 **CodeLlama 34B Instruct** is available in the **GGUF** format, which is a new format introduced by the **llama.cpp** team in **August 2023**. **GGUF** is a replacement for **GGML**, which is no longer supported by **llama.cpp**. The key benefit of **GGUF** is that it is an extensible, future-proof format that stores more information about the model as metadata. It also includes significantly improved tokenization code, including for the first time full support for special tokens.**https://huggingface.co/TheBloke/CodeLlama-34B-Instruct-GGUF**
+
+## How to Run this tool : 
+
+```
+pip install -r requirements.txt
+wget https://huggingface.co/TheBloke/CodeLlama-34B-Instruct-GGUF/resolve/main/codellama-34b-instruct.Q4_K_M.gguf
+streamlit run app.py
+
+```

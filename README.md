@@ -1,4 +1,5 @@
 # Llama-Code Assistant
+![code_llama_title-1200x750](https://github.com/Kirouane-Ayoub/Llama-Code-Assistant/assets/145156896/35c84254-d292-4945-b186-72dbbc7e8443)
 
 ## About This Project :
 **Llama Code Assistant** is a powerful tool built upon a massive 34-billion-parameter generative text model. This model, available in the Hugging Face Transformers format, is designed for various code-related tasks, including code synthesis and comprehension. It serves as a valuable resource for developers and programmers by assisting them in writing, understanding, and generating code.

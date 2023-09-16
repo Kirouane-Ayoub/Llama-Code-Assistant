@@ -1,0 +1,4 @@
+ctransformers  
+langchain
+streamlit
+Pillow
